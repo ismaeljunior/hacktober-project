@@ -1,4 +1,4 @@
-# hacktoberfest-project-2021
+# hacktoberfest-project-2022
 
 Este documento indica o passo a passo para rodar este projeto.
 
